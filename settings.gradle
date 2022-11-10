@@ -1,0 +1,2 @@
+rootProject.name = "likelion10th_sideproject"
+include ':app'
